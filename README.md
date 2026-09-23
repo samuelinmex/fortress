@@ -8,7 +8,7 @@ Prototipo estático multipágina preparado para GitHub Pages.
 - `empresas.html` — Empresas / proyectos
 - `tecnologia.html` — Tecnología inteligente
 - `nosotros.html` — Marca, misión y visión
-- `cotizador.html` — Cotizador básico residencial
+- `redes-wifi.html` — Redes, cobertura WiFi y conectividad
 
 ## Publicación rápida en GitHub Pages
 1. Sube todos los archivos a la raíz de un repositorio.
@@ -26,5 +26,5 @@ El sitio usa rutas relativas, por lo que funciona también cuando GitHub Pages p
 ## Contacto configurado
 WhatsApp / teléfono: **998 337 7518** (`+52 998 337 7518`).
 
-## Criterio de precios
-Cuando existían precios distintos en los documentos de Fortress se utilizó el valor más alto. El cotizador muestra precios de referencia y conserva la advertencia de materiales/adecuaciones variables.
+## Cotizaciones
+El sitio dirige las solicitudes de CCTV, proyectos empresariales y soluciones de redes/WiFi a WhatsApp para que Fortress pueda validar el espacio y preparar una propuesta adecuada.
